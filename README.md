@@ -1,1 +1,1 @@
-# mern-learning-journey
+# My MERN Learning Journey
